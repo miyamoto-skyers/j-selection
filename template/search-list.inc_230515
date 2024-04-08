@@ -183,7 +183,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     })(window, document, "clarity", "script", "48oi4wuzmj");
 </script>
 
-<script type="text/javascript" src="/js_arcs/line_parameter.js"></script>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-022NRX6X41"></script>
 <script>

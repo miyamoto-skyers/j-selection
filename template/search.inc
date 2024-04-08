@@ -68,7 +68,7 @@
         <script type="text/javascript" src="/js_arcs/objsearch.js"></script>
         <script type="text/javascript" src="/js_arcs/ajax_object_cnt.js"></script>
         <script type="text/javascript" src="/js_arcs/ajax_kodawari_search.js"></script>
-        <script type="text/javascript" src="/js_arcs/line_parameter.js"></script>
+        
         
         <!-- Google Tag Manager -->
         <script>(function (w, d, s, l, i) {

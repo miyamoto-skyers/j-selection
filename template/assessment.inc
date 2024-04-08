@@ -136,7 +136,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     }
 </script>
 
-<script type="text/javascript" src="/js_arcs/line_parameter.js"></script>
+
 
 </head>
 <body>

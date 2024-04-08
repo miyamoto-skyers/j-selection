@@ -124,7 +124,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script type="text/javascript" src="//ajaxzip3.github.io/ajaxzip3.js" charset="utf-8"></script>
 
 
-<script type="text/javascript" src="/js_arcs/line_parameter.js"></script>
+
 
 </head>
 <body>

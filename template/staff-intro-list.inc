@@ -69,7 +69,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
-<script type="text/javascript" src="/js_arcs/line_parameter.js"></script>
+
 
 </head>
 <body>
