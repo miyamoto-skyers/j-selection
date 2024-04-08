@@ -1,0 +1,175 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NKFL2BN');</script>
+<!-- End Google Tag Manager -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width" />
+<title>センチュリーClubログイン｜センチュリー21住宅セレクション: 神奈川エリアの不動産売買専門</title>
+<meta name="Description" content="センチュリー21住宅セレクションのセンチュリーClubログイン" />
+<meta name="Keywords" content="おすすめ物件,センチュリー21住宅セレクション,神奈川県藤沢市,茅ヶ崎市,平塚市,寒川町,不動産,売買専門" />
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/login.css" />
+<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+<!--&#91;if lt IE 9&#93;>
+<script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<!&#91;endif&#93;-->
+<script src="https://code.jquery.com/jquery-latest.js"></script>
+<script src="/js/common.js"></script>
+<script type="text/javascript" src="//webfont.fontplus.jp/accessor/script/fontplus.js?KxqpanDaumc%3D&box=~8PqL6Bf2q8%3D&aa=1" charset="utf-8"></script>
+<!---------------------
+　スマホナビゲーション
+----------------------->
+<script type="text/javascript" src="/js/jquery.meanmenu.js"></script>
+<link href="/css/meanmenu.css" rel="stylesheet" type="text/css">
+<script>
+(function($){
+	$(function(){	
+		$('#spheader').meanmenu({
+			meanMenuClose: "x",
+			meanMenuCloseSize: "18px",
+			meanMenuOpen: "<span /><span /><span />",
+			meanRevealPosition: "right",
+			meanRevealColour: "",
+			meanScreenWidth: "480"
+		});
+	});	
+})(jQuery);
+</script>
+<!-------------------------------
+ポップアップ
+--------------------------------->
+<link rel="stylesheet" href="/css/magnific-popup.css"> 
+<script src="/js/jquery.magnific-popup.js"></script>
+<script src="/js/jquery.magnific-popup_OP.js"></script>
+<!-------------------------------
+ログイン入力チェック
+--------------------------------->
+<script>
+$(function() {
+	$('.login_btn').click(function(){
+		if($('#my_page_id_body').val() == ''){
+			alert('IDを入力してください');
+			return;
+		}
+		if($('#my_page_passwd_body').val() == ''){
+			alert('パスワードを入力してください');
+			return;
+		}
+		$("#bodylogin").attr('disabled', true);
+		$("#bodylogin").css('background-color', 'grey');
+		$("#bodylogin").css('border', '2px solid grey');
+		$('#loginfbody').submit();
+	});
+});
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GPT3H');</script>
+<!-- End Google Tag Manager -->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2805189076247155');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2805189076247155&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<script type="text/javascript" src="/js_arcs/line_parameter.js"></script>
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NKFL2BN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="container">
+<?php include(__DIR__.'/../web/inc/header.inc'); ?>
+<?php include(__DIR__.'/../web/inc/nav.inc'); ?>
+<div id="contents">
+<div id="sptop" class="pchd">
+<a href="/loan_consultation/"><img src="/image/sptop.png" alt="住宅ローン審査の通過実績多数!! "></a>
+</div>
+
+<div id="login">
+<ol class="topicPath sphd">
+<li><a href="/">センチュリー21 住宅セレクション</a></li>
+<li>センチュリーClubログイン</li>
+</ol>
+<h1><i class="fas fa-sign-in-alt"></i> センチュリーClubログインページ</h1>
+<dl>
+<dt>既存会員様へのお知らせ　</dt>
+<dd><a href="http://www2.j-selection.co.jp/blog/?p=262523" target="_blank">～新システム移行による会員情報登録のお願い～</a></dd>
+</dl>
+<form id="loginfbody" method="post" action="/bin/login.php">
+<input type="hidden" name="logined" value="1" />
+<div id="loginbox">
+<div class="box1 bg1">
+<p class="obi">会員登録がお済みの方</p>
+<div class="inner">
+<?php echo ($error_msg!="")?"<p style=\"color:red;\">".$error_msg."</p>":""; ?>
+<dl>
+<dt>ID(メールアドレス)</dt>
+<dd><input type="text" name="my_page_id" id="my_page_id_body" value="" class="ipt" /></dd>
+</dl>
+<dl>
+<dt>パスワード</dt>
+<dd><input type="password" name="my_page_passwd" id="my_page_passwd_body" class="ipt" /></dd>
+</dl>
+<p class="auto"><label><input type="checkbox" name="keep_login" id="keep_login_body" value="1" /> 次回から自動ログインする</label></p>
+<div class="bt"><input class="css_btn_class_o maru login_btn" type="button" value="≫ ログイン" id="bodylogin"></div>
+<p class="forget"><a class="popup-iframe" href="/bin/forget.php">≫ パスワードをお忘れの方</a></p>
+<!--/inner--> 
+</div>
+<!--/box1--> 
+</div>
+
+
+<div class="box2 bg2">
+<p class="obi">初めてご利用の方</p>
+<div class="inner">
+<p class="text"><b>未公開・販売予告・会員優先販売など特典がございます！</b><br />
+登録は1分で完了！すぐにご利用頂けます。当社の物件は他サイトなどではみることはできません。
+ぜひこの機会にご登録ください。</p>
+<div class="bt"><a class="css_btn_class_y maru" href="/merit/#merit">≫ 会員メリットを見る</a></div>
+<div class="bt"><a class="css_btn_class_y maru" href="/merit/#form">≫ 今すぐ無料会員登録</a></div>
+<!--/inner--> 
+</div>
+<!--/box2--> 
+</div>
+<!--/loginbox-->
+</div>
+</form>
+<!--/login-->
+</div>
+<!--/contents-->
+</div>
+<?php include(__DIR__.'/../web/inc/footer.inc'); ?>
+<!--/container-->
+</div>
+<p class="pagetop"><a href="#container">▲</a></p>
+<?php include(__DIR__.'/../web/inc/sidebt.inc'); ?>
+<?php include(__DIR__.'/../web/inc/footbt.inc'); ?>
+</body>
+</html>

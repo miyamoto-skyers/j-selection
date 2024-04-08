@@ -1,0 +1,31 @@
+<dl class="kind">
+<dt>物件の種別を選択して下さい</dt>
+<?php
+foreach ($GLOBALS['search_cds']['shubetu_cd_search'] as $one) {
+
+	$shin_checkbox = ($one['cd'] == "1,2") ? '　<br class="pchd"><label><input type="checkbox" name="kodate_shin" value="1" onclick="if ($(this).prop(\'checked\')) { $(\'.shubetu_kodate\').val(\'1\'); } else { $(\'.shubetu_kodate\').val(\'1,2\'); }" />（新築のみ）</label>' : '';
+	$kodate_class  = ($one['cd'] == "1,2") ? ' class="shubetu_kodate"' : '';
+	$checked       = (preg_match("/".$Param['shubetu_cd']."/", $one['cd']) || (empty($Param['shubetu_cd']) && $one['cd'] == "1,2")) ? ' checked' : '';
+
+	echo "<dd><label><input type=\"radio\" name=\"shubetu_cd\" value=\"".$one['cd']."\"".$kodate_class.$checked." />".$one['nm']."</label>".$shin_checkbox."</dd>\n";
+}
+?>
+</dl>
+<dl class="area">
+<dt>エリアを選択して下さい</dt>
+<?php
+	$param_area_checked = implode(",", (array)$Param['shiku_cd']);
+
+	foreach ($TownList as $tval) {
+
+		$checked = (preg_match("/".$tval['cd']."/", $param_area_checked)) ? ' checked' : '';
+
+		if($tval['cnt'] == 0){
+			echo "<dd id=\"shiku_".$tval['cd']."\"><input type=\"checkbox\" name=\"shiku_cd[]\" value=\"".$tval['cd']."\" disabled />".$tval['nm']."</dd>\n";
+
+		}else{
+			echo "<dd id=\"shiku_".$tval['cd']."\"><input type=\"checkbox\" name=\"shiku_cd[]\" value=\"".$tval['cd']."\"".$checked."><a href=\"/list/area/".$tval['cd']."/".$Param['sbt']."/\">".$tval['nm']."</a>（<span class=\"kensu\">".$tval['cnt']."</span>）</dd>\n";
+		}
+	}
+?>
+</dl>

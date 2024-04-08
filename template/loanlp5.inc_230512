@@ -1,0 +1,319 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NKFL2BN');</script>
+<!-- End Google Tag Manager -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width" />
+<title>住宅ローンお問合せフォーム｜センチュリー21住宅セレクション: 神奈川エリアの不動産売買専門</title>
+<meta name="Description" content="センチュリー21住宅セレクションの住宅ローンお問合せフォーム" />
+<meta name="Keywords" content="住宅ローン,センチュリー21住宅セレクション,神奈川県藤沢市,茅ヶ崎市,平塚市,寒川町,不動産,売買専門" />
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/form.css" />
+<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+<!--&#91;if lt IE 9&#93;>
+<script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<!&#91;endif&#93;-->
+<script src="https://code.jquery.com/jquery-latest.js"></script>
+<script src="/js/common.js"></script>
+<script type="text/javascript" src="//webfont.fontplus.jp/accessor/script/fontplus.js?KxqpanDaumc%3D&box=~8PqL6Bf2q8%3D&aa=1" charset="utf-8"></script>
+<!---------------------
+　スマホナビゲーション
+----------------------->
+<script type="text/javascript" src="/js/jquery.meanmenu.js"></script>
+<link href="/css/meanmenu.css" rel="stylesheet" type="text/css">
+<script>
+(function($){
+	$(function(){	
+		$('#spheader').meanmenu({
+			meanMenuClose: "x",
+			meanMenuCloseSize: "18px",
+			meanMenuOpen: "<span /><span /><span />",
+			meanRevealPosition: "right",
+			meanRevealColour: "",
+			meanScreenWidth: "480"
+		});
+	});	
+})(jQuery);
+</script>
+<!---------------------
+　フォーム関連
+----------------------->
+<link rel="stylesheet" href="/css/inputchk.css" type="text/css" />
+<script type="text/javascript" src="/js/inputchk.js"></script>
+<!--送信チェック-->
+<script type="text/javascript">
+function sendMail() {
+	var ret = checkSubmit();
+	if (ret) {
+		if(confirm("送信してもよろしいですか？")){
+			return true;
+		} else {
+			return false;
+		}
+	}
+	return ret;
+}
+</script>
+<!--離脱アラート-->
+<script>
+jQuery(
+ function($)
+ {
+	var loc=false;
+     //store onbeforeunload for later use
+   $(window).bind("beforeunload", function(e) {
+ // 確認メッセージに表示させたい文字列を返します。
+ if (!loc) {
+ return "お問合せは完了しておりません。このページから移動してもよろしいですか？";
+ }
+});
+//$('a').click( function() {loc=true;});
+$("form").submit(function(){loc=true;});
+ }
+);
+</script>
+<!-------------------------------
+toggle 表示・非表示
+--------------------------------->
+<script type="text/javascript">
+	$(function(){
+		
+		//最初から非表示
+		$('.pvbox').hide();
+		$(".open").click(function(){
+			$(this).next().slideToggle();
+		});
+	});
+</script>
+<script type="text/javascript" src="//ajaxzip3.github.io/ajaxzip3.js" charset="utf-8"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GPT3H');</script>
+<!-- End Google Tag Manager -->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2805189076247155');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2805189076247155&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<!--Microsoft Clarity（マイクロソフト クラリティ）20201125-->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "48oi4wuzmj");
+</script>
+<script type="text/javascript" src="/js_arcs/line_parameter.js"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-022NRX6X41"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-022NRX6X41');
+  gtag('config', 'UA-35940578-1');
+</script>
+
+<script type="text/javascript">
+    function myFunction() {
+        var post_data = {};
+        
+        var name = $("#kokyaku_nameID").val();
+        var email = $("#mail_addr1ID").val();
+        
+        $zoho.salesiq.visitor.name(name);
+        $zoho.salesiq.visitor.email(email);
+    }
+</script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NKFL2BN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="container">
+<?php include(__DIR__.'/../web/inc/header.inc'); ?>
+<?php include(__DIR__.'/../web/inc/nav.inc'); ?>
+<div id="sptop" class="pchd">
+<a href="/loan_consultation/"><img src="/image/sptop.png" alt="住宅ローン審査の通過実績多数!! "></a>
+</div>
+<div id="contents">
+<div id="form">
+<div class="inner">
+<ol class="topicPath sphd">
+<li><a href="/">センチュリー21 住宅セレクション</a></li>
+<li>住宅ローンお問合せフォーム</li>
+</ol>
+<h1><i class="fas fa-edit"></i>　住宅ローンお問合せフォーム</h1>
+<p class="mgb20">住宅ローンについてのお問い合わせは、下記フォームをご利用ください。後程、担当者より御連絡させて頂きます。<br>
+お客様以外の利用はご遠慮願います。こちらのフォームはお客様専用フォームとなります。</p>
+
+<form id="mailform" method="post" action="/bin/common-contact.php">
+<input type="hidden" id="type" name="type" value="loanlp5" />
+<input type="hidden" id="mode" name="mode" value="confirm" />
+<?php echo $hidden_html; ?>
+
+<div id="formWrap">
+<h2>お問い合わせ内容</h2>
+<table>
+<tr>
+<th>ご相談内容<span class="must">必須</span></th>
+<td>
+<input type="radio" name="toiawase_naiyou" data-dispname="相談内容" id="radio1_1" data-group="hisu1" class="chk_input chk_required" value="住宅ローンの相談" checked="checked" />
+<label for="radio1_1" class="radio">住宅ローンの相談</label>
+
+<input type="radio" name="toiawase_naiyou" data-dispname="相談内容" id="radio1_2" data-group="hisu1" class="chk_input chk_required" value="資金計画について" />
+<label for="radio1_2" class="radio">資金計画について</label>
+
+<input type="radio" name="toiawase_naiyou" data-dispname="相談内容" id="radio1_3" data-group="hisu1" class="chk_input chk_required" value="その他お問い合わせ" />
+<label for="radio1_3" class="radio">その他お問い合わせ</label>
+</td>
+</tr>
+<tr>
+<th>相談ご希望日
+</th>
+<td>
+第一希望　
+■ 日程 : <select name="toiawase_naiyou1_date" data-dispname="ご希望日" id="ご希望日" class="chk_input">
+<option value="">指定なし</option>
+<?php
+	foreach ($form_cds['yoyaku_date'] as &$value) {
+		$selected = ($value[cd] == $Param['toiawase_naiyou1_date']) ? " selected" : "";
+		echo '<option value="'.$value[cd].'"'.$selected.'>'.$value[nm].'</option>';
+	}
+?>
+</select>　
+■ 時間 : <select name="toiawase_naiyou1_time" data-dispname="ご希望日時間" id="ご希望日時間" class="chk_input">
+<option value="指定なし">指定なし　　　　</option>
+<?php
+	foreach ($form_cds['yoyaku_jikan'] as &$value) {
+		$selected = ($value[cd] == $Param['toiawase_naiyou1_time']) ? " selected" : "";
+		echo '<option value="'.$value[cd].'"'.$selected.'>'.$value[nm].'</option>';
+	}
+?>
+</select><br>
+第二希望　
+■ 日程 : <select name="toiawase_naiyou2_date" data-dispname="ご希望日" id="ご希望日" class="chk_input">
+<option value="">指定なし</option>
+<?php
+	foreach ($form_cds['yoyaku_date'] as &$value) {
+		$selected = ($value[cd] == $Param['toiawase_naiyou2_date']) ? " selected" : "";
+		echo '<option value="'.$value[cd].'"'.$selected.'>'.$value[nm].'</option>';
+	}
+?>
+</select>　
+■ 時間 : <select name="toiawase_naiyou2_time" data-dispname="ご希望日時間" id="ご希望日時間" class="chk_input">
+<option value="指定なし">指定なし　　　　</option>
+<?php
+	foreach ($form_cds['yoyaku_jikan'] as &$value) {
+		$selected = ($value[cd] == $Param['toiawase_naiyou2_time']) ? " selected" : "";
+		echo '<option value="'.$value[cd].'"'.$selected.'>'.$value[nm].'</option>';
+	}
+?>
+</select><br>
+第三希望　
+■ 日程 : <select name="toiawase_naiyou3_date"data-dispname="ご希望日" id="ご希望日" class="chk_input">
+<option value="">指定なし</option>
+<?php
+	foreach ($form_cds['yoyaku_date'] as &$value) {
+		$selected = ($value[cd] == $Param['toiawase_naiyou3_date']) ? " selected" : "";
+		echo '<option value="'.$value[cd].'"'.$selected.'>'.$value[nm].'</option>';
+	}
+?>
+</select>　
+■ 時間 : <select name="toiawase_naiyou3_time"data-dispname="ご希望日時間" id="ご希望日時間" class="chk_input">
+<option value="指定なし">指定なし　　　　</option>
+<?php
+	foreach ($form_cds['yoyaku_jikan'] as &$value) {
+		$selected = ($value[cd] == $Param['toiawase_naiyou3_time']) ? " selected" : "";
+		echo '<option value="'.$value[cd].'"'.$selected.'>'.$value[nm].'</option>';
+	}
+?>
+</select>
+</td>
+</tr>
+<tr>
+<th>相談ご希望店</th>
+<td>
+<input type="radio" name="toiawase_naiyou4" data-dispname="相談ご希望店" id="radio2_1" data-group="hisu1" class="chk_input chk_required" value="平塚店" />
+<label for="radio2_1" class="radio">平塚店</label>
+<input type="radio" name="toiawase_naiyou4" data-dispname="相談ご希望店" id="radio2_2" data-group="hisu1" class="chk_input chk_required" value="秦野店" />
+<label for="radio2_2" class="radio">秦野店</label>
+<input type="radio" name="toiawase_naiyou4" data-dispname="相談ご希望店" id="radio2_6" data-group="hisu1" class="chk_input chk_required" value="小田原店" />
+<label for="radio2_6" class="radio">小田原店</label>
+<input type="radio" name="toiawase_naiyou4" data-dispname="相談ご希望店" id="radio2_9" data-group="hisu1" class="chk_input chk_required" value="横浜（関内）住宅ローン相談会場" />
+<label for="radio2_9" class="radio">横浜（関内）住宅ローン相談会場</label>
+<input type="radio" name="toiawase_naiyou4" data-dispname="相談ご希望店" id="radio2_10" data-group="hisu1" class="chk_input chk_required" value="横浜（桜木町）住宅ローン相談会場" />
+<label for="radio2_10" class="radio">横浜（桜木町）住宅ローン相談会場</label>
+<input type="radio" name="toiawase_naiyou4" data-dispname="相談ご希望店" id="radio2_4" data-group="hisu1" class="chk_input chk_required" value="相模原住宅ローン相談会場" />
+<label for="radio2_4" class="radio">相模原住宅ローン相談会場</label>
+<input type="radio" name="toiawase_naiyou4" data-dispname="相談ご希望店" id="radio2_8" data-group="hisu1" class="chk_input chk_required" value="さがみ野駅前住宅ローン相談会場" />
+<label for="radio2_8" class="radio">さがみ野駅前住宅ローン相談会場</label>
+<input type="radio" name="toiawase_naiyou4" data-dispname="相談ご希望店" id="radio2_5" data-group="hisu1" class="chk_input chk_required" value="出張相談希望" />
+<label for="radio2_5" class="radio">出張相談希望</label>
+</td>
+</tr>
+<tr>
+<th>ご希望の物件のURLがあればご記入ください</th>
+<td>
+<input name="toiawase_naiyou5" data-dispname="URL" type="text" value="" style="ime-mode:active;" class="text chk_input text50" placeholder="http://○○○.co.jp/～～～" />
+</td>
+</tr>
+<tr>
+<th>ローンのご相談などご自由にご記入ください</th>
+<td><textarea name="free_text" rows="6" class="chk_input" style="ime-mode:active;" placeholder="内容をご入力してください。" data-dispname="お問い合わせ詳細"></textarea></td>
+</tr>
+</table>
+
+<h2>お客様情報</h2>
+<?php include(__DIR__.'/form_parts/kokyaku_input.inc'); ?>
+
+<div id="privacy">
+<p class="open">弊社の<span>プライバシーポリシー</span>をお読みいただき、すべての内容に同意のうえご登録ください。</p>
+<?php include(__DIR__.'/form_parts/privacy_policy.inc'); ?>
+<!--/privacy-->
+</div>
+<div id="submit">
+<input type="submit" value="上記の内容で確認する" class="css_btn_class maru" onclick="myFunction()" />
+<!--/submit-->
+</div>
+<!--/formWrap-->
+</div>
+</form>
+<!--/inner-->
+</div>
+<!--/form-->
+</div>
+<!--/contents-->
+</div>
+<?php include(__DIR__.'/../web/inc/footer.inc'); ?>
+<!--/container-->
+</div>
+<p class="pagetop"><a href="#container">▲</a></p>
+<?php include(__DIR__.'/../web/inc/sidebt.inc'); ?>
+</body>
+</html>

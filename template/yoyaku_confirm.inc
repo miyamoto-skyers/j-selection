@@ -1,0 +1,170 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NKFL2BN');</script>
+<!-- End Google Tag Manager -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width" />
+<title>来場予約フォーム｜センチュリー21住宅セレクション: 神奈川エリアの不動産売買専門</title>
+<meta name="Description" content="センチュリー21住宅セレクションの来場予約フォーム" />
+<meta name="Keywords" content="おすすめ物件,センチュリー21住宅セレクション,神奈川県藤沢市,茅ヶ崎市,平塚市,寒川町,不動産,売買専門" />
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/form.css" />
+<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+<!--&#91;if lt IE 9&#93;>
+<script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<!&#91;endif&#93;-->
+<script src="https://code.jquery.com/jquery-latest.js"></script>
+<script src="/js/common.js"></script>
+<script type="text/javascript" src="//webfont.fontplus.jp/accessor/script/fontplus.js?KxqpanDaumc%3D&box=~8PqL6Bf2q8%3D&aa=1" charset="utf-8"></script>
+<!---------------------
+　スマホナビゲーション
+----------------------->
+<script type="text/javascript" src="/js/jquery.meanmenu.js"></script>
+<link href="/css/meanmenu.css" rel="stylesheet" type="text/css">
+<script>
+(function($){
+	$(function(){	
+		$('#spheader').meanmenu({
+			meanMenuClose: "x",
+			meanMenuCloseSize: "18px",
+			meanMenuOpen: "<span /><span /><span />",
+			meanRevealPosition: "right",
+			meanRevealColour: "",
+			meanScreenWidth: "480"
+		});
+	});	
+})(jQuery);
+</script>
+<!-------------------------------
+toggle 表示・非表示
+--------------------------------->
+<script type="text/javascript">
+    $(function(){
+        
+        //最初から非表示
+        $('.pvbox').hide();
+        $(".open").click(function(){
+            $(this).next().slideToggle();
+        });
+    });
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GPT3H');</script>
+<!-- End Google Tag Manager -->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2805189076247155');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2805189076247155&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<script type="text/javascript" src="/js_arcs/line_parameter.js"></script>
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NKFL2BN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="container">
+<?php include(__DIR__.'/../web/inc/header.inc'); ?>
+<?php include(__DIR__.'/../web/inc/nav.inc'); ?>
+<div id="sptop" class="pchd">
+<a href="/loan_consultation/"><img src="/image/sptop.png" alt="住宅ローン審査の通過実績多数!! "></a>
+</div>
+<div id="contents">
+<div id="form">
+<div class="inner">
+<ol class="topicPath sphd">
+<li><a href="/">センチュリー21 住宅セレクション</a></li>
+<li>来場予約フォーム</li>
+</ol>
+<h1><i class="fas fa-edit"></i>　来場予約フォーム</h1>
+<p class="mgb20"><span class="caution">まだ送信完了していません</span><br>
+下記の内容をご確認いただき、よろしければ送信をお願いします。</p>
+
+<form id="mailform" method="post" action="/bin/common-contact.php?type=<?php echo $Param['type']; ?>">
+    <input type="hidden" id="type" name="type" value="<?php echo $Param['type']; ?>" />
+    <input type="hidden" id="mode" name="mode" value="reg" />
+    <?php echo $hidden_html; ?>
+    
+    <div id="formtop2">
+        <h2>お問い合わせ物件</h2>
+        <?php include(__DIR__ . '/form_parts/object_list.inc'); ?>
+    </div>
+
+    <div id="formWrap">
+        <h2>来店・案内のご希望について</h2>
+        <table class="pc_raiten">
+            <tr class="raiten_yoyaku_form_title">
+                <th>ご希望日</th>
+                <td>
+                    日程 : <?php echo $Param['toiawase_naiyou1']; ?><?php echo $err_toiawase_naiyou1; ?><br>
+                    お待ち合わせ時間 : <?php echo $Param['toiawase_naiyou2']; ?><?php echo $err_toiawase_naiyou2; ?>
+                </td>
+            </tr>
+            <tr>
+                <th>見学に関してご要望・ご質問など</th>
+                <td><?php echo nl2br($Param['free_text']); ?><?php echo $err_free_text; ?></td>
+            <tr>
+
+            <tr class="raiten_yoyaku_form_content">
+            </tr>
+        </table>
+        <h2>お客様情報</h2>
+        <?php include(__DIR__ . '/form_parts/kokyaku_confirm.inc'); ?>
+
+        <div id="privacy">
+            <p class="open">弊社の<span>プライバシーポリシー</span>をお読みいただき、すべての内容に同意のうえご登録ください。</p>
+            <?php include(__DIR__ . '/form_parts/privacy_policy.inc'); ?>
+            <!--/privacy-->
+        </div>
+        <div id="submit">
+            <div class="bt">
+                <input type="button" value="修正する" class="css_btn_class2 maru" onclick="history.back();">
+                <?php if (empty($err)) { ?><input type="submit" value="上記の内容で送信する" class="css_btn_class maru" /><?php } ?>
+            </div>
+            <!--/submit-->
+        </div>
+        <!--/formWrap-->
+    </div>
+</form>
+<!--/inner-->
+</div>
+<!--/form-->
+</div>
+
+<?php include(__DIR__.'/../web/inc/footer.inc'); ?>
+<!--/contents-->
+</div>
+
+<!--/container-->
+</div>
+
+<?php include(__DIR__.'/../web/inc/sidebt.inc'); ?>
+</body>
+</html>
