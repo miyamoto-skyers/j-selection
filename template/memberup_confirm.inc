@@ -81,46 +81,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
-
-<script type="text/javascript" id="zsiqchat">
-    var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode: "544f4b9418fed9f1f409a7b1bef61acb4542c0e43ba7cda057c5c8bfe508fd76", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);
-
-    function myFunction() {
-        
-        var kibo_area1 = "<?php echo $Param['kibo_area_name1']; ?>";
-        var kibo_shubetu = "<?php echo $Param['kibo_shubetu']; ?>";
-        var kibo_biko = $("#kibo_bikoID").val();
-        var tanto = "<?php echo $Param['shimei_tantou_name']; ?>";
-        
-        var name = $("#kokyaku_nameID").val();
-        var kana = $("#kokyaku_name_knID").val();
-        var zip_code = $("#zip_codeID").val();
-        var kokyaku_addr1 = $("#kokyaku_addr1ID").val();
-        var kokyaku_tel1 = $("#kokyaku_tel1ID").val();
-        var email = $("#mail_addr1ID").val();
-        var what_baibai = $("#what_baibaiID").val();
-        var kokyaku_cd = $("#kokyaku_cdID").val();
-
-        $zoho.salesiq.visitor.area(kibo_area1);
-        $zoho.salesiq.visitor.property_type(kibo_shubetu);
-        $zoho.salesiq.visitor.other_contact_information(kibo_biko);
-        $zoho.salesiq.visitor.our_person_in_charge(tanto);
-        
-        $zoho.salesiq.visitor.last_name(name);
-        $zoho.salesiq.visitor.furigana(kana);
-        $zoho.salesiq.visitor.zip_code(zip_code);
-        $zoho.salesiq.visitor.address(kokyaku_addr1);
-        $zoho.salesiq.visitor.phone(kokyaku_tel1);
-        $zoho.salesiq.visitor.email(email);
-        $zoho.salesiq.visitor.find_out_about(what_baibai);
-        $zoho.salesiq.visitor.respons_type("会員情報変更");
-        $zoho.salesiq.visitor.respons_path("センチュリー21");
-        $zoho.salesiq.visitor.customer_code(kokyaku_cd);
-    }
-</script>
-
-
-
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->

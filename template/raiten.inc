@@ -120,21 +120,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
-
-<script type="text/javascript">
-    function myFunction() {
-        var post_data = {};
-        
-        var name = $("#kokyaku_nameID").val();
-        var email = $("#mail_addr1ID").val();
-        
-        $zoho.salesiq.visitor.name(name);
-        $zoho.salesiq.visitor.email(email);
-    }
-</script>
-
-
-
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -294,7 +279,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <input type='text' style='display:none;' name='xmIwtLD' value='a874bac5e1893146a6b58ad8ce95645d47981355839b1a0dac348a4fa6f013b7'/>
 <input type='text'  style='display:none;' name='actionType' value='TGVhZHM='/>
 <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;crmplus.zoho.com&#x2f;housedemoaccount&#x2f;index.do&#x2f;cxapp&#x2f;crm&#x2f;org769615357&#x2f;tab&#x2f;Leads&#x2f;custom-view&#x2f;5162417000000087501&#x2f;canvas&#x2f;5162417000000353007' />
-<script id='wf_anal' src='https://crm.zohopublic.com/crm/WebFormAnalyticsServeServlet?rid=a874bac5e1893146a6b58ad8ce95645d47981355839b1a0dac348a4fa6f013b7gidd350a3237154fdd102f61a9e00bf1a531735217e474ba6be69ee793314e7c15agid885e3c1045bd9bdcc91bdf30f82b5696gid14f4ec16431e0686150daa43f3210513'></script>
+<script id='wf_anal' src='https://crm.zohopublic.com/crm/WebFormAnalyticsServeServlet?rid=a874bac5e1893146a6b58ad8ce95645d47981355839b1a0dac348a4fa6f013b7gidd350a3237154fdd102f61a9e00bf1a531735217e474ba6be69ee793314e7c15agid885e3c1045bd9bdcc91bdf30f82b5696gid14f4ec16431e0686150daa43f3210513'></script><!--/不要であれば消してよい-->
 </form>
 <div class="note">
 <dl>

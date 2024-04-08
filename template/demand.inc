@@ -121,20 +121,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Facebook Pixel Code -->
 
 
-<script type="text/javascript">
-    function myFunction() {
-        var post_data = {};
-        
-        var name = $("#kokyaku_nameID").val();
-        var email = $("#mail_addr1ID").val();
-        
-        $zoho.salesiq.visitor.name(name);
-        $zoho.salesiq.visitor.email(email);
-    }
-</script>
-
-
-
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
